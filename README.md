@@ -1,1 +1,2 @@
-# Computer-Vision-Tutorial
+# OpenCV using HAAR Cascade classifiers
+
