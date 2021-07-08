@@ -1,1 +1,1 @@
-# Face-eyes-and-pedestrian-detection
+# Computer-Vision-Tutorial
